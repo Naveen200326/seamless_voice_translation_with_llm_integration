@@ -1,4 +1,4 @@
-#Project Name
+##Project Name
 RealTime Voice Translation with LLM Integration
 
 ## Description
